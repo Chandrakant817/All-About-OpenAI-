@@ -5,3 +5,4 @@ OpenAI Explanation with LangChain Applications.
 
 #### Reference:
 1. https://youtu.be/CbpsDMwFG2g?si=3PWhx5CAdmqqLQL1
+2. https://youtu.be/xP_ZON_P4Ks?si=i_rzGzTwLgIX282R
