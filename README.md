@@ -5,6 +5,9 @@ OpenAI Explanation with LangChain Applications.
 
 ![image](https://github.com/Chandrakant817/All-About-OpenAI-/assets/69152112/45cce673-c5e1-4831-b87e-a451cfa439a9)
 
+![image](https://github.com/Chandrakant817/All-About-OpenAI-/assets/69152112/479eaf04-bc27-4d44-80bd-f59dd909d2bd)
+
+## <b> Theory Concepts </b>
 #### <b> What is Langchain? 
 1. LangChain is a powerful Framework that allows you to build applications using LLM's.
 2. It helps you to create your own custom LLM models, and it can help you to train your own Custome data along with that it h elps you to integrate with various tools and API
@@ -18,6 +21,7 @@ OpenAI Explanation with LangChain Applications.
 
 
 
-#### Reference:
+### <b> Reference: </b>
 1. https://youtu.be/CbpsDMwFG2g?si=3PWhx5CAdmqqLQL1
 2. https://youtu.be/xP_ZON_P4Ks?si=i_rzGzTwLgIX282R
+3. https://www.kdnuggets.com/2023/05/deep-dive-gpt-models.html
